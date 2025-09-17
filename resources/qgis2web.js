@@ -486,7 +486,7 @@ var Abstract = new ol.control.Control({
             hideAbstract();
         } else {
             linkElement.classList.add("project-abstract-uncollapsed");
-            linkElement.innerHTML = '<h4>The Haritha Karma Sena Dashboard for Kochi City monitors urban waste management, aligning with SDGs.</h4><h4><br>It tracks Coverage & Access, mapping HKS units and coverage ratios; Inclusivity & Equity, emphasizing SHG representation; Operational Efficiency, measuring household coverage; Sustainability & Revenue, analyzing fees and training; and Safety & Welfare, ensuring worker safety. It empowers stakeholders for a sustainable, inclusive Kochi.</h4><br><h5>Click on a ward to see information for it. <br />Click the top-right button to hide/reveal wards or points. <br />Navigate to the rest of themes with the links in the bottom left.</h5>';
+            linkElement.innerHTML = '<h4>The Haritha Karma Sena Dashboard for Kochi City monitors urban waste management, aligning with SDGs.It tracks Coverage & Access, mapping HKS units and coverage ratios; Inclusivity & Equity, emphasizing SHG representation; Operational Efficiency, measuring household coverage; Sustainability & Revenue, analyzing fees and training; and Safety & Welfare, ensuring worker safety. It empowers stakeholders for a sustainable, inclusive Kochi.</h4><br><h5>Click on a ward to see information for it. <br />Click the top-right button to hide/reveal wards or points. <br />Navigate to the rest of themes with the links in the bottom left.</h5>';
         }
 
         titleElement.appendChild(linkElement);
@@ -618,6 +618,7 @@ document.addEventListener('DOMContentLoaded', function() {
         bottomRightContainerDiv.appendChild(attributionControl);
 
     }
+
 
 
 
