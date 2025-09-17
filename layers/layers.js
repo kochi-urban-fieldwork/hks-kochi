@@ -22,7 +22,7 @@ var lyr_Efficiencyscore_1 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Efficiencyscore_1, 
                 style: style_Efficiencyscore_1,
-                popuplayertitle: 'Efficiency score',
+                popuplayertitle: '',
                 interactive: true,
     title: '' });
 var format_Coverageratio_2 = new ol.format.GeoJSON();
