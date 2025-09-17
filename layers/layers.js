@@ -144,26 +144,26 @@ var lyr_PositionrankingsofHKSbyward_9 = new ol.layer.Vector({
                 popuplayertitle: 'Position rankings of HKS by ward',
                 interactive: true,
     title: 'Position rankings of HKS by ward<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_0.png" /> 1<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_1.png" /> 2<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_2.png" /> 3<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_3.png" /> 4<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_4.png" /> 5<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_5.png" /> 6<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_6.png" /> 7<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_7.png" /> 8<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_8.png" /> 9<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_9.png" /> 10<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_10.png" /> 11<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_11.png" /> 12<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_12.png" /> 13<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_13.png" /> 14<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_14.png" /> 15<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_15.png" /> 16<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_16.png" /> 17<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_17.png" /> 18<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_18.png" /> 19<br />\
-    <img src="styles/legend/PositionrankingsofHKSbyward_9_19.png" /> 20<br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_0.png" /> 1 -- Ward 20<br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_1.png" /> 2 -- Ward 1 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_2.png" /> 3 -- Ward 54 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_3.png" /> 4 -- Ward 64 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_4.png" /> 5 -- Ward 37 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_5.png" /> 6 -- Ward 34 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_6.png" /> 7 -- Ward 13 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_7.png" /> 8 -- Ward 31 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_8.png" /> 9 -- Ward 22 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_9.png" /> 10 -- Ward 60 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_10.png" /> 11 -- Ward 28 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_11.png" /> 12 -- Ward 33 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_12.png" /> 13 -- Ward 26 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_13.png" /> 14 -- Ward 12 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_14.png" /> 15 -- Ward 40 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_15.png" /> 16 -- Ward 59 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_16.png" /> 17 -- Ward 9 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_17.png" /> 18 -- Ward 41 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_18.png" /> 19 -- Ward 10 <br />\
+    <img src="styles/legend/PositionrankingsofHKSbyward_9_19.png" /> 20 -- Ward 63 <br />\
     <img src="styles/legend/PositionrankingsofHKSbyward_9_20.png" /> <br />' });
 
 lyr_OpenStreetMap_0.setVisible(true);lyr_Efficiencyscore_1.setVisible(true);lyr_Coverageratio_2.setVisible(true);lyr_Equityindex_3.setVisible(true);lyr_Householdcoveragefrequency_4.setVisible(true);lyr_Housesvisitedperday_5.setVisible(true);lyr_Safetygearusenormalised_6.setVisible(true);lyr_SHGrepresentationinHKS_7.setVisible(true);lyr_Userfeerevenuenormalised_8.setVisible(true);lyr_PositionrankingsofHKSbyward_9.setVisible(true);
