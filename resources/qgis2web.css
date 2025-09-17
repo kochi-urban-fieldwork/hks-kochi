@@ -113,10 +113,10 @@ th, td {
 }
 
 th {
-	min-width: 100px;
+	min-width: 150px;
 }
 td {
-	min-width: 100px;
+	min-width: 150px;
 }
 
 td img {
@@ -408,4 +408,5 @@ td video {
 .bottom-attribution > li {
 	padding-left: 8px !important;
 	list-style: none;	
+
 	}
